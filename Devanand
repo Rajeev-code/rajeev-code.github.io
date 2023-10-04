@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h1>Welcome to videos of Devanand!!🙂</h1>
+  <h2>Video1</h2>
+    <video src="Video1.mp4" width="350" height="290" controls></video><br>
+    Like♥️<input name="terms" type="checkbox" value="tandc" /> <br >
+    <h2>Video2</h2>
+    <video src="Video2.mp4" width="350" height="290" controls></video><br>
+    Like♥️<input name="terms" type="checkbox" value="tandc" /> <br >
+    <h2>Video3</h2>
+    <video src="Video3.mp4" width="350" height="290" controls></video><br>
+    Like♥️<input name="terms" type="checkbox" value="tandc" /> <br >
+    <h2>Video4</h2>
+    <video src="Video4.mp4" width="350" height="290" controls></video><br>
+    Like♥️<input name="terms" type="checkbox" value="tandc" /> <br >
+    <h2>Video5</h2>
+    <video src="Video5.mp4" width="350" height="290" controls></video><br>
+    Like♥️<input name="terms" type="checkbox" value="tandc" /> <br >
+    <h2>Video6</h2>
+    <video src="Video6.mp4" width="350" height="290" controls c></video><br>
+    Like♥️<input name="terms" type="checkbox" value="tandc" /> <br >
+
+    
+</body>
+</html>
